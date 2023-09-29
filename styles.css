@@ -54,6 +54,17 @@ a{
 	background-color:white;
 }
 
-audio{
-	width:490px;
+.player_one{
+
+	background-color:rgb(255, 255, 255); 
+	padding:2px;
+	border-radius:2px;
 }
+
+.player_two{
+	width:490px;
+	background-color:rgb(255, 255, 255); 
+	padding:2px;
+	border-radius:2px;
+}
+
