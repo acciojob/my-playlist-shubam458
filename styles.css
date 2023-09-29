@@ -1,1 +1,59 @@
 /*  your css code here. If applicable */
+
+body{
+
+	background-color: rgb(204, 204, 204)
+}
+
+#wrapper{
+   padding:0;
+	margin:0;
+	box-sizing:border-box;
+	height: 1100px;
+	width:1100px;
+	background-color:#cccccc;
+
+}
+
+.container{
+
+	height:200px;
+	width:900px;
+	border:2px solid black;
+
+	border-radius:20px;
+
+	margin:100px;
+	
+   background-color:white;
+		
+}
+
+ul>li{
+
+	list-style-type:none;
+	padding:5px;
+	margin-right:50px;
+
+	
+}
+a{
+	text-decoration-line:none;
+	color:black;
+	
+}
+
+.container-1{
+
+	height:500px;
+	width:500px;
+	border:2px solid black;
+	margin-left:280px;
+	border-radius:20px;
+	padding:10px;
+	background-color:white;
+}
+
+audio{
+	width:490px;
+}
